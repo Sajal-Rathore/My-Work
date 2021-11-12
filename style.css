@@ -1,0 +1,15 @@
+#input1{
+    width: 270px;
+    font-size: 16px;
+}
+
+#result_button{
+    background-color: aquamarine;
+    color: green;
+    font-size: 16px;
+}
+
+#cube2{
+    width: 400;
+    height: 400;
+}
